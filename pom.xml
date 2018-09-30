@@ -46,13 +46,6 @@
             <artifactId>spring-cloud-alibaba-sentinel</artifactId>
             <version>0.2.0.BUILD-SNAPSHOT</version>
         </dependency>
-
-        <!--<dependency>-->
-            <!--<groupId>com.alibaba.csp</groupId>-->
-            <!--<artifactId>sentinel-spring-boot-starter</artifactId>-->
-            <!--<version>0.1.0</version>-->
-        <!--</dependency>-->
-
     </dependencies>
 
     <build>
