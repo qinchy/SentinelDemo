@@ -2,7 +2,7 @@
 1.启动sentinel-dashboard
 D:\.m2\repository\com\alibaba\csp\sentinel-dashboard\0.1.1>java -Dserver.port=8081 -Dcsp.sentinel.dashboard.server=localhost:8081 -jar sentinel-dashboard-0.1.1.jar
 2.访问http://localhost:8081/#/dashboard/home进入sentinel控制台，可以针对每一个应用进行流控
-
+Note:请用chrome访问，不要用IE谢谢。
 
 
 
