@@ -29,6 +29,8 @@ csp.sentinel.dashboard.server=localhost:8081
 #-Dcsp.sentinel.dashboard.server=localhost:8081
 5.页面访问
 http://127.0.0.1:8080/sentineldemo/test/flowctl，会自动在sentinel-dashboard中注册
+6.在dashboard中定义流控规则
+7.频繁访问，讲返回Blocked by Sentinel (flow limiting)，可以自定义
 
 
 --流控规则
